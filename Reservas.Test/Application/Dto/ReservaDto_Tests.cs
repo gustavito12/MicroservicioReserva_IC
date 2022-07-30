@@ -11,6 +11,7 @@ namespace Reservas.Test.Application.Dto {
     public class ReservaDto_Tests {
         [Fact]
         public void RservaDto_CheckPropertiesValid() {
+            //prueba
             var idTest = Guid.NewGuid();
             var nroReservaTest = 5;
             var detalleReservaTest = GetDetalleReserva();
