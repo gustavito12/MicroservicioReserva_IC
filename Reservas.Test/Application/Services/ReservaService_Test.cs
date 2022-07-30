@@ -24,6 +24,9 @@ namespace Reservas.Test.Application.Services {
                 Assert.Equal(expectedIdReserva, idReserva);
             } else {
                 Assert.NotEqual(expectedIdReserva, idReserva);
+                // prueba de orden de codigo
+
+
             }
         }
     }
