@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XVc8cokUnXX8RC2Uil0WcCcBv8k9s89cZ4cxTi6f9eV/gxLhvQOCxBSDsM5aOmdLg1O3Wu7PNzUiZUFDoPKQkg==",
+  "dgSpecHash": "EldXgdtmIhP6qOWZpfIyOTnEOobKnhRM35sh9f5EQyMci62KLXuZsF203/1CwHOmZLjFjTQ2/p6ho4xFJEXdgw==",
   "success": true,
-  "projectFilePath": "D:\\MI ESCRITORIO\\DIPLOMADO DE ARQUITECTURA DE SOFTWARE\\MODULO 5\\ACTIVIDAD 5\\MicroservicioRserva_IC\\ShareKernel\\ShareKernel.csproj",
+  "projectFilePath": "D:\\MI ESCRITORIO\\DIPLOMADO DE ARQUITECTURA DE SOFTWARE\\MODULO 5_INTEGRACIÓN CONTINUA\\PROYECTO FINAL\\SONARCLOUD\\MicroservicioReserva_IC\\ShareKernel\\ShareKernel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
